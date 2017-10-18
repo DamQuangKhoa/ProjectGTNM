@@ -8,7 +8,7 @@
    //  function () {
    //      $('ul',this).slideUp('fast');            
    //  });
-
+$('#menu').load('../menu2.html');
  	$('#myCarousel').carousel({
         pause: 'none'
     });
